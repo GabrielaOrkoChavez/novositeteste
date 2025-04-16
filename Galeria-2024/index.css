@@ -1,0 +1,71 @@
+body{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(170, 236, 190);
+}
+
+h1{
+    color: rgb(184, 207, 49);
+    font-size: 49px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+img{
+    max-width:80%;
+    max-height:80%;
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px rgb(121, 172, 136);
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.legenda1{
+    display: block;
+}
+
+.legenda2{
+    display: block;
+}
+
+.legenda3{
+    display: block;
+}
+
+.legenda4{
+    display: block;
+}
+
+.legenda5{
+    display: block;
+}
+
+.legenda6{
+    display: block;
+}
+
+.legenda7{
+    display: block;
+}
+
+.legenda8{
+    display: block;
+}
